@@ -1,0 +1,42 @@
+{"teammembers":[
+	{
+		"hotel_name": "Delta Hotel",
+        "price": "$124.50",
+		"location": "11, King Street Fairway Road, Toronto",
+		"image": "staff/hotel1.jpg",
+		"mobile": "226 - 232 - 2234",
+		"description": "Delta Hotels by Marriott Toronto allows guests to experience 4-star hospitality in an ideal location overlooking the waterfront in Toronto. Situated in the vibrant downtown district of Toronto, this hotel offers spacious, modern rooms and suites. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Hilton Toronto",
+        "price": "$124.50",
+		"location": "525, Bay Street, Toronto",
+		"image": "staff/hotel2.jpg",
+		"mobile": "236 - 342 - 2234",
+		"description": "The Hilton Toronto hotel offers superb fine dining, elegantly stylish guestrooms and the ideally located steps from stunning Toronto attractions. Across the street from the Four Seasons Centre of Performing Arts, and walking distance to the CN Tower. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "The Grand Hotel",
+        "price": "$124.50",
+		"location": "350, King St West, Toronto",
+		"image": "staff/hotel3.jpeg",
+		"mobile": "156 - 798 - 6784",
+		"description": "The Grand Hotel Toronto offers 177 luxuriously-appointed guest suites, offering a high-end accommodation right in the heart of Toronto. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome.  On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Hyatt Regency",
+        "price": "$124.50",
+		"location": "45, Richmond Street West, Toronto",
+		"image": "staff/hotel4.jpg",
+		"mobile": "986 - 232 - 2234",
+		"description": "Nestled in the heart of the city’s entertainment district, Hyatt Regency Toronto provides accommodation for single guests, couples, and families. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Marriott Downtown",
+        "price": "$124.50",
+		"location": "234, Jarvis Street, Toronto",
+		"image": "staff/hotel5.jpg",
+		"mobile": "678 - 232 - 2234",
+		"description": "The Hotel Marriott is a premier hotel in the heart of Toronto and centrally located downtown. Rooms feature complimentary WiFi, a work area with desk, a coffee maker, and the addition of luxury bath products. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	}
+]}

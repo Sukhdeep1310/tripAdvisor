@@ -1,0 +1,105 @@
+<html>
+    <head>
+       <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <title></title>
+	    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <script src="script/reservation.js"></script>
+        <script src="script/script.js"></script>
+        
+    </head>
+    <body>
+        <header>
+            <p>Pack your bags. We’re going on vacation!</p>
+        </header>
+        <nav>
+          <img src="images/triplogo.png" width="200px" height="100px">
+           <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="deals.html">Deals</a></li>
+           </ul>
+           <a href="#" class="material-icons" onclick="toggle()">menu</a>
+        </nav>
+        <main>
+            
+            <form method="get" class="deals_form" id="deals_form">
+                <div class="row">
+                    <div class="column">
+                        <fieldset>
+                            
+                            <div class="input-group">
+                                <label for="name">Name:</label>
+                                <input type="text" name="name" id="name">
+                                <span>*</span><br>
+                            </div>
+                            <div class="input-group">
+                                <label for="email">Email:</label>
+                                <input type="text" name="email" id="email">
+                                <span>*</span><br>
+                            </div>
+                            <div class="input-group">
+                                <label for="phone">Phone:</label>
+                                <input type="text" name="phone" id="phone" placeholder="999-999-9999">
+                                <span>*</span><br>
+                            </div>
+                        </fieldset>
+                        <fieldset>
+                           
+                            <div class="input-group">
+                                <label for="arrival_date">Arrival date:</label>
+                                <input type="date" name="arrival_date" id="arrival_date" autofocus>
+                                <span>*</span><br>
+                            </div>
+                            <div class="input-group">
+                                <label for="nights">Nights:</label>
+                                <input type="text" name="nights" id="nights">
+                                <span>*</span><br>
+                            </div>
+                            <div class="input-group">
+                                <label>Persons:</label>
+                                <select name="adults" id="adults">
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>        		        		        		
+                                </select><br>
+                            </div>
+                        </fieldset>
+                        <fieldset>
+                            
+                            <div class="input-group">
+                                <label>Room type:</label>
+                                <input type="radio" name="room" id="standard" class="left" checked>Standard&nbsp;&nbsp;&nbsp;	        	
+                                <input type="radio" name="room" id="business" class="left">Business&nbsp;&nbsp;&nbsp;
+                                <input type="radio" name="room" id="suite" class="left last">Suite<br>
+                            </div>
+                            <div class="input-group">
+                                <label>Payment Details:</label>
+                                <input type="radio" name="bed" id="king" class="left" checked>Credit or Debit&nbsp;&nbsp;&nbsp;
+                                <input type="radio" name="bed" id="double" class="left last">PayPal<br>
+                                <input type="radio" name="bed" id="double" class="left last">Google Pay<br>
+
+                            </div>
+                        </fieldset>		
+                        
+                        <div class="row">
+                            <input type="submit" id="submit" value="Submit Request"><br>
+                        </div>
+                    </div>
+                </div>
+	       </form>
+                <div id="back-button" onclick="back_btn()"><img src=images/backlogo.png width="50px" height="50px"></div>
+        </main>
+        <footer class="footer1">
+			<div class="footer">
+				<p class="footer_about">
+					Copyright &copy; Trip Advisor 2019<br>
+				</p>
+			</div>
+            <div onclick="top_button()" id="myBtn"><img src="images/top_arrow.png" height="60px" width="60px"></div>
+		</footer>
+    </body>
+    
+</html>

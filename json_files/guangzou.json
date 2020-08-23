@@ -1,0 +1,42 @@
+{"teammembers":[
+	{
+		"hotel_name": "Hilton Guangzhou",
+        "price": "$124.50",
+		"location": "Central District Science City Guangzhou",
+		"image": "staff/hotel1.jpg",
+		"mobile": "574 - 367 - 4528",
+		"description": "In addition to an indoor pool and an outdoor pool, Hilton Guangzhou Science City provides a sauna and a fitness center. Dining is available at one of the hotel's 3 restaurants and guests can grab coffee at the coffee shop/café. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Tokai Hotel",
+        "price": "$121.50",
+		"location": "No. 318-1 East Huanshi Dong Lu",
+		"image": "staff/hotel2.jpg",
+		"mobile": "765 - 342 - 2234",
+		"description": "The hotel offers a restaurant. A bar/lounge is on site where guests can unwind with a drink. This 3-star property offers access to a business center and a meeting room. Public areas are equipped with complimentary wireless Internet access. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Rayster Hotel",
+        "price": "$184.50",
+		"location": "95 Chebei Road Tianhe District Guangzhou",
+		"image": "staff/hotel3.jpeg",
+		"mobile": "156 - 798 - 6784",
+		"description": "The hotel offers a restaurant. A complimentary breakfast is offered each morning. Wired Internet access is complimentary. This 3.5-star property offers access to a center. This business-friendly hotel also offers a casino, an arcade/game room, and gift shops. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "City Inn",
+        "price": "$189.50",
+		"location": "No.29, Jianye Road, Tianhe District Guangzhou",
+		"image": "staff/hotel4.jpg",
+		"mobile": "986 - 232 - 2234",
+		"description": "City Inn - Guangzhou features express check-in, express check-out, and a television in a common area. Wireless Internet access is complimentary. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Warmyes Business Hotel",
+        "price": "$124.50",
+		"location": "No.468 Middle Xingang Road Haizhu District",
+		"image": "staff/hotel5.jpg",
+		"mobile": "678 - 232 - 2234",
+		"description": "Wireless Internet access is complimentary. A bar/lounge is on site where guests can unwind with a drink. This business-friendly hotel also offers tour/ticket assistance, & complimentary newspapers in the lobby. Onsite self parking is complimentary. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	}
+]}

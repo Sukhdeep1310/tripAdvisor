@@ -1,0 +1,99 @@
+#contact_slider{
+    background-image: url(images/contact.jpg);
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+#map{
+    height: 300px;
+    width: 100%;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+  }
+  .row {
+    display: flex;
+    width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+      flex-direction: column;
+    justify-content: center;
+  }
+  #column {
+      flex-wrap: wrap;
+      flex-direction: column;
+      justify-content: center;
+    display: flex;
+    padding: 1em;
+  }
+#column h1{
+    text-align: center;
+}
+  .input_field {
+   	display: flex;
+  }
+  .input_field > label {
+    margin-right: 1em; 
+    padding: .5em 0;
+  }
+  .contact-form input,
+  .contact-form select {
+    flex: 6; 
+    padding: .5em;
+    margin-bottom: 1em;
+  }
+  .contact-form button {
+   padding: 1em; 
+    background: gray;
+    color: white;
+    border: 0;
+  }
+  .contact-form fieldset {
+   	border: 0; 
+  }
+#row1 span{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+#row1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contact-content{
+    background-color:azure;
+    text-align: center;
+    padding:20px;
+}
+
+#contact-content1{
+    padding: 20px;
+}
+
+#contact-content1 span{
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+}
+        
+#contact-content1 p{
+    padding: 5px;
+}
+
+
+@media only screen and (max-width:800px){
+    #column{
+        text-align: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .row{
+        width: 100%;
+    }
+}

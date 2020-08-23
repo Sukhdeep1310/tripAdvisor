@@ -1,0 +1,42 @@
+{"teammembers":[
+	{
+		"hotel_name": "Belvedere Hotel",
+        "price": "$69",
+		"location": "52-54 Norfolk Square, Paddington, London",
+		"image": "staff/hotel1.jpg",
+		"mobile": "226 - 232 - 2234",
+		"description": "Belvedere Hotels by Marriott allows guests to experience 4-star hospitality in an ideal location overlooking the waterfront in London. Situated in the vibrant downtown district of London, this hotel offers spacious, modern rooms and suites. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Astors Belgravia",
+        "price": "$144.00",
+		"location": "106-112 Ebury Street, London",
+		"image": "staff/hotel2.jpg",
+		"mobile": "296 - 072 - 8734",
+		"description": "The Astors Belgravia hotel offers superb fine dining, elegantly stylish guestrooms and the ideally located steps from stunning London attractions. Across the street from the Four Seasons Centre of Performing Arts. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "St Giles London",
+        "price": "$146.50",
+		"location": "Bedford Avenue, London",
+		"image": "staff/hotel3.jpeg",
+		"mobile": "897 - 234 - 6784",
+		"description": "The St Giles London offers 177 luxuriously-appointed guest suites, offering a high-end accommodation right in the heart of London. Rooms feature complimentary WiFi, a work area with desk, a coffee maker, and the addition of luxury bath products. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Alhambra Hotel",
+        "price": "$342.80",
+		"location": "17-19 Argyle Street, London",
+		"image": "staff/hotel4.jpg",
+		"mobile": "943 - 231 - 2234",
+		"description": "Nestled in the heart of the city’s entertainment district, Alhambra Hotel London provides accommodation for single guests, couples, and families. Rooms feature complimentary WiFi, a work area with desk, a coffee maker, and the addition of luxury bath products. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Central Park Hotel",
+        "price": "$105",
+		"location": "49/67 Queensborough Terrace, London",
+		"image": "staff/hotel5.jpg",
+		"mobile": "238 - 534 - 2578",
+		"description": "TheCentral Park Hotel is a premier hotel in the heart of Londom and centrally located downtown. Rooms feature complimentary WiFi, a work area with desk, a coffee maker, and the addition of luxury bath products. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	}
+]}

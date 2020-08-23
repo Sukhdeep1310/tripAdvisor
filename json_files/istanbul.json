@@ -1,0 +1,42 @@
+{"teammembers":[
+	{
+		"hotel_name": "Tomtom Suite",
+        "price": "$454.00",
+		"location": "Kaptan Sokak, Istanbul",
+		"image": "staff/hotel1.jpg",
+		"mobile": "226 - 232 - 2234",
+		"description": "Set in a historic French-style building, Tomtom Suites offers boutique accommodations in the heart of Beyoğlu. Guests are steps from the shopping, dining, and culture of Istanbul’s European side. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Crowne Plaza",
+        "price": "$189.50",
+		"location": "Senlikköy Mahallesi, 34153, Istanbul",
+		"image": "staff/hotel2.jpg",
+		"mobile": "236 - 786 - 2234",
+		"description": "Stylish seaside hotel with an outdoor pool and meeting facilities, next to Istanbul Aquarium and Aqua Florya Mall. Ideal for business and leisure travellers, Crowne Plaza® Istanbul - Florya hotel is a 15-minute drive from CNR Expo and IDTM exhibition centres.  On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Miniature Istanbul",
+        "price": "$124.50",
+		"location": " Molla Fenari Sokak 22 Cagaloglu, 34110, Istanbul",
+		"image": "staff/hotel3.jpeg",
+		"mobile": "156 - 367 - 6784",
+		"description": "Hotel Miniature is a historical boutique hotel located in the heart of Sultanahmet distinct within 3 minutes' walk of the old city square, Archeological Museum, Hagia Irene, Turkish Islamic Arts Museum and Egyptian Obelisks. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Sultanhan",
+        "price": "$189.00",
+		"location": "Piyer Loti Caddesi No 15 Çemberlitaş, 34122, Istanbul",
+		"image": "staff/hotel4.jpg",
+		"mobile": "986 - 232 - 2234",
+		"description": "Hotel Sultanhan Special Category is conveniently located in the popular Sultanahmet area. The hotel provides accommodation for single guests, couples, and families. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Dosso Dossi Hotels Old City",
+        "price": "$167.57",
+		"location": "Alemdar Mah Alay Köşkü Cad No12, 34110, Istanbul",
+		"image": "staff/hotel5.jpg",
+		"mobile": "689 - 232 - 2234",
+		"description": "This elegant hotel is situated in the historic district of Sultanahmet and just a short walk away from most of the historic sites like the Blue Mosque as well as the tram station. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	}
+]}

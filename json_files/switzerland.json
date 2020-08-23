@@ -1,0 +1,42 @@
+{"teammembers":[
+	{
+		"hotel_name": "Wald Hotel",
+        "price": "$100.50",
+		"location": "Saas-Fee, Valais, Switzerland",
+		"image": "staff/hotel1.jpg",
+		"mobile": "226 - 232 - 2654",
+		"description": "Offering conscious escapism on a forested slope just outside Saas-Fee, Waldhotel Fletschhorn combines the seclusion of a mountain hut with the ambiance of a good friend’s home, the luxury of a Relais & Chateaux property. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "The Omnia",
+        "price": "$140.00",
+		"location": "Zermatt, Valais, Switzerland",
+		"image": "staff/hotel2.jpg",
+		"mobile": "236 - 982 - 2234",
+		"description": "The Omnia, a serene mountain hideaway, is perched on a wooded ledge high above central Zermatt. It exudes luxury in the shape of spacious, curated-to-perfection rooms, a Michelin-starred restaurant and a hot whirlpool with Matterhorn views. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome. "
+	},
+	{
+		"hotel_name": "The Victoria-Jungfrau",
+        "price": "$189.30",
+		"location": "Interlaken, Switzerland",
+		"image": "staff/hotel3.jpeg",
+		"mobile": "156 - 798 - 6784",
+		"description": "This belle Époque beauty surveys the mighty Jungfrau from its pride of place in Interlaken and is every bit as grand as when it opened in the mid-1800s. With plush rooms, near-palatial chandelier-lit interiors, a holistic spa and imaginative fine dining. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "HUUS Gstaad",
+        "price": "$178.60",
+		"location": "Gstaad, Switzerland",
+		"image": "staff/hotel4.jpg",
+		"mobile": "986 - 098 - 6745",
+		"description": " A perfect marriage between Alpine hut and luxury design hotel. HUUS Gstaad melds an unmatched package of outdoor activities with a well appointed family-friendly spa and the world’s best beds. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome."
+	},
+	{
+		"hotel_name": "Grand Resort",
+        "price": "$109.43",
+		"location": "Bad Ragaz, Switzerland",
+		"image": "staff/hotel5.jpg",
+		"mobile": "678 - 232 - 2234",
+		"description": "Health and wellness are the main draw for a diverse crowd – from royalty to retirees – to the Grand Resort Bad Ragaz, a superb spa with thermal waters attached to three very good hotels, on the edge of a beautiful alpine spa town. On-site parking is free. To make it short, this hotel was absolutely awesome. On-site parking is free. To make it short, this hotel was absolutely awesome. "
+	}
+]}

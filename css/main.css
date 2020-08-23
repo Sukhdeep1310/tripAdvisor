@@ -1,0 +1,100 @@
+/* the styles for the elements */
+
+nav a:focus, nav a:hover, article a:hover {
+	font-style: italic;
+}
+/* the styles for the header */
+.shadow {
+	text-shadow: 2px 2px 2px #800000;
+}
+
+/* the styles for the main content */
+main {
+	clear: left;
+	padding: 0 20px 20px;
+	width: 80%;
+	float: right;
+}
+main h1 {
+	color: darkblue;
+	font-size: 150%;
+	padding: .5em 0 .25em;
+}
+main h2 {
+	font-size: 120%;
+	padding-bottom: .25em;
+}
+main p {
+	padding-bottom: .5em;
+}
+main blockquote {
+	padding: 0 2em;
+	font-style: italic;
+}
+main ul {
+	padding: 0 0 1.5em 1.25em;
+}
+main li {
+	padding-bottom: .35em;
+}
+
+main img {
+	float: left;
+	margin: 1em;
+	border: 1px solid black;
+}
+
+aside {
+	width: 20%;
+	float: left;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+aside h1 {
+	color: #800000;
+	font-size: 150%;
+	padding: .5em 0 .25em;
+}
+aside h2 {
+	font-size: 120%;
+	padding-bottom: .25em;
+}
+aside img {
+	padding-bottom: 1em;
+}
+/* the styles for the navigation list */
+#nav_list ul { 
+	list-style: none;
+	margin-left: 0;
+	margin-bottom: 1.5em; }
+#nav_list li { 
+	width: 100%;
+	margin-bottom: .5em;
+	border: 2px double black;
+	border-radius: 10px;
+	box-shadow: 3px 3px 0 0 darkblue;
+    text-align: center;
+	margin-top: 1em;	
+}
+#nav_list li a {
+	display: block;
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+	padding: .5em 0 .5em 1em;
+}
+
+#book{
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+@media only screen and (max-width:768px){
+    body *{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;    
+}
+}
